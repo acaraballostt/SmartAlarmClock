@@ -17,11 +17,11 @@
 // Temboo & Google Calendar/GMail configuration.
 
 // Temboo account username:
-#define TEMBOO_ACCOUNT      "YOUR TEMBOO ACCOUNT NAME"
+#define TEMBOO_ACCOUNT      "YOUR TEMBOO ACCOUNT NAME" // acaraballostt
 // Temboo account app name:
-#define TEMBOO_APP          "YOUR TEMBOO APPLICATION NAME"
+#define TEMBOO_APP          "YOUR TEMBOO APPLICATION NAME" //SmartAlarmClock-Gmail
 // Temboo account app key:
-#define TEMBOO_KEY          "YOUR TEMBOO APPLICATION KEY"
+#define TEMBOO_KEY          "YOUR TEMBOO APPLICATION KEY" //9b189dc524444930bbbae4d8fd6d957e
 // Temboo Google calendar credential name:
 #define CALENDAR_CREDENTIALS  "GoogleCalendar"
 // Google calendar ID:
